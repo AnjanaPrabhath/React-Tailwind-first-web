@@ -12,7 +12,7 @@ function App() {
       <Navbar/> 
       <Hero/>
       <Addvertise/>
-      {/* <Newsletter/> */}
+      <Newsletter/>
       <Packages/>
       <Footer/>
     </div>
