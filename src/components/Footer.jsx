@@ -11,7 +11,7 @@ const Footer = () => {
   return (
     <div className='max-w-[1240px] mx-auto py-16 grid lg:grid-cols-3 gap-8 text-gray-300'>
         <div>
-           <h1 className='w-full text-3xl font-bold text-[#00df9a]'>IDIOT</h1>
+           <h1 className='w-full text-3xl font-bold text-[#00df9a]'>3IDIOTS</h1>
            <p className='py-4 pr-4'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam saepe quidem rem provident ducimus sint corporis ab incidunt ut dolore?</p>
            <div className='flex md:w-[75%] my-6 justify-between'>
             <FaDribbbleSquare size={30}/>
