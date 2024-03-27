@@ -11,7 +11,7 @@ const Hero = () => {
                 <p className='md:text-5xl sm:text-4xl text-5xl font-bold'>proudly presents by </p>
             </div>
             <ReactTyped className='md:text-4xl sm:text-3xl text-xl font-bold text-gray-600 p-3' 
-                strings={['Anjana Prabhath']} 
+                strings={['Anjana Prabhath','AJ']} 
                 typeSpeed={120} 
                 backSpeed={130} 
                 loop />
